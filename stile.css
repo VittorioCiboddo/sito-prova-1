@@ -5,3 +5,9 @@ h1 {
 p {
     color: green;
 }
+
+div {
+    background-color: blue;
+    border-color: orange;
+    border-radius: 20%;
+}
